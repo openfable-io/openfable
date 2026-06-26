@@ -6,22 +6,11 @@ OpenFable makes **Open Mythos** and **Open Fable** models accessible — powerfu
 
 ---
 
-## Pricing
-
-| Tier | Price |
-|------|-------|
-| Eve | Free |
-| OpenEve | $1/24hr or $9/mo |
-| OpenFable | $19/mo |
-| OpenMythos | $29/mo |
-
----
-
 ## Quick Start
 
 ```bash
-git clone https://github.com/openfable-io/open-fable.git
-cd open-fable
+git clone https://github.com/openfable-io/openfable.git
+cd openfable
 pip install -r requirements.txt
 ```
 
